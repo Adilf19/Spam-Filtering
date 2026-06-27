@@ -1,7 +1,7 @@
 # Spam-Filtering
 Spam Classification using Bernoulli Naive Bayes
 
-Accuracy: 89.9%
+Accuracy: 90.4% on hidden data.
 
 Topics
 - NLP
