@@ -1,2 +1,16 @@
 # Spam-Filtering
-A Spam Filtering Project with a Naive Bayes Classifier done in python, with a manim presentation overview explaining the algorithms methodology. 
+Spam Classification using Bernoulli Naive Bayes
+
+Accuracy: 89.9%
+
+Topics
+- NLP
+- Machine Learning
+- Probability
+- Naive Bayes
+- Python
+
+Includes:
+• Implementation
+• Mathematical explanation
+• 2-minute Manim animation
