@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+spam_classifier_model.pkl
+.venv/
+.ipynb_checkpoints/
+.DS_Store
